@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,undefined
-https://tinyurl.com/tbzv72d5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DF6CIfC.png" group-title="Brasil: cinema",MovieSphere | Brasil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fvg43uJ.png" group-title="Brasil: cinema",MyTime Movie Network | Brasil
@@ -225,4 +223,5 @@ https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 https://video02.logicahost.com.br/wtjtvminas/wtjtvminas/playlist.m3u8
 #EXTINF:-1 tvg-language="Portuguese" tvg-logo="https://i.imgur.com/gNt3xcI.png" group-title="Brasil: variedades",Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-
+#EXTINF:-1,undefined
+https://tinyurl.com/tbzv72d5
